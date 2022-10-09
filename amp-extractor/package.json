@@ -1,0 +1,21 @@
+{
+  "name": "dj---open-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "testlink-api-client": "^0.0.8",
+    "testlink-xmlrpc": "^2.0.3"
+  }
+}
